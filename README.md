@@ -31,7 +31,3 @@ Each method is tested on the same carbon–temperature model to compare **accura
 
 The function \( f(t, y) \) is **non-Lipschitz**, which limits stability for large time steps.
 
----
-
-## Files
-
